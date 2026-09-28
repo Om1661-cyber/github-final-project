@@ -1,0 +1,10 @@
+git branch -vv
+
+* bug-fix-revert  932bd3b Add pull request verification output
+  bug-fix-typo    fbed869 [origin/bug-fix-typo] Fix another typo
+  main            6576cbb [origin/main] Add merge branch output
+
+git status
+
+On branch bug-fix-revert
+nothing to commit, working tree clean
