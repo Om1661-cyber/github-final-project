@@ -1,6 +1,6 @@
 
-# Simple Intrest Calculator
-Bash script for calculating simple interest.
+# Simple Interest Calculator
+This project contains a Bash script that calculates simple interest.
 
 ## Formula
 
